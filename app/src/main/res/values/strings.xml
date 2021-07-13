@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CloudVisionLibDemo</string>
+    <string name="api_key">Your api key</string>
+    <string name="please_wait">Please Wait</string>
+    <string name="result_not_found">Result not found</string>
+</resources>
